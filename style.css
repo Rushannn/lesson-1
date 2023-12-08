@@ -1,0 +1,36 @@
+.header {
+  background-color: aqua;
+}
+
+button {
+  height: 30px;
+  background-color: red;
+  border-radius: 10px;
+}
+
+
+
+.block {
+  height: 30px;
+  background-color: blue;
+  margin-bottom: 20px;
+}
+
+.block-2 {
+  display: inline;
+  height: 30px;
+  background-color: blueviolet;
+}
+
+span {
+  height: 50px;
+  color: aquamarine;
+  background-color: chartreuse;
+}
+
+.flex {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: coral;
+}
